@@ -1,7 +1,6 @@
 # NVIDIA_DLI
 Jetson ORIN NANO
 
-https://m.blog.naver.com/PostView.naver?blogId=zeta0807&logNo=223930848295&navType=by
 While preparing to install the boot image for the Jetson ORIN NANO, I initially attempted to install BalenaEtcher, but encountered issues downloading the setup .exe file. To work around this, I used a VPN to bypass the restriction and successfully downloaded and installed BalenaEtcher.
 
 Next, I flashed the OS image (.img file) onto an SD card and inserted it into the Jetson ORIN NANO to boot the device. However, after booting, I ran into an issue where Chromium wouldn’t launch.
